@@ -11,4 +11,4 @@ the get_embedding_function sets up an embedding model for text data.
 in the file query_data.py we will set a prompt_template that the model would follow to treat the embedded data as we want it to
 
 
-##### the model that was used is llama3
+##### the model that was used is llama3"# amayaAG" 
